@@ -47,5 +47,5 @@ Personal portfolio with Supabase integration, inline content editing, and PIN-pr
 ## Connect
 
 - Portfolio: [mg-prof.vercel.app](https://mg-prof.vercel.app)
-- LinkedIn: *(add your link here)*
-- Email: *(add your email here)*
+- LinkedIn: https://www.linkedin.com/in/madhan-gopal-i-248b053ba/
+- Email: madhangopal.btech@gmail.com
