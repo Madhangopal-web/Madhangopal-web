@@ -1,6 +1,6 @@
 # Madhan G
 
-Final-year Electrical and Electronics Engineering student at Sri Manakula Vinayagar Engineering College, Puducherry (2025 batch), with hands-on experience across embedded systems, full-stack web development, and computer vision.
+Final-year Electrical and Electronics Engineering student at Sri Manakula Vinayagar Engineering College, Puducherry (2023 batch), with hands-on experience across embedded systems, and computer vision.
 
 ## About Me
 
